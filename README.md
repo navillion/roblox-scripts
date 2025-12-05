@@ -1,2 +1,2 @@
 # roblox-scripts
-A place to put some ROBLOX scripts
+This repo will store uncategorized roblox scripts, instead of me making individual repos for them.
